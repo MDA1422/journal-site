@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f9;
+    color: #333;
+}
+
+header {
+    text-align: center;
+    background-color: #6c5ce7;
+    color: white;
+    padding: 20px;
+}
+
+main {
+    width: 80%;
+    margin: 20px auto;
+    max-width: 800px;
+}
+
+.entry {
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+    padding: 15px;
+}
+
+.entry h2 {
+    margin: 0 0 10px;
+}
+
+.entry p {
+    margin: 0;
+}
+
+footer {
+    text-align: center;
+    margin: 20px 0;
+}
